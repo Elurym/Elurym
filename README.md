@@ -74,9 +74,9 @@ Autodidacte et curieux, j’aime explorer de nouvelles technologies et relever d
 ---
 
 ## 📌 Projets phares
-- 🎮 **Row-Hosting App** – Application Flutter pour gérer des serveurs Pterodactyl  
-- 🤖 **RowBot** – Bot Discord avec tickets, giveaways et intégrations avancées  
-- 🌐 **Site Row-Hosting** – Landing page Next.js avec SEO et i18n  
+- 🎮 **Row-Hosting App** - Application Flutter pour gérer des serveurs Pterodactyl  
+- 🤖 **RowBot** - Bot Discord avec tickets, giveaways et intégrations avancées  
+- 🌐 **Site Row-Hosting** - Landing page Next.js avec SEO et i18n  
 
 ---
 
