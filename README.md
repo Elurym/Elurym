@@ -4,20 +4,38 @@
 ---
 
 ### 💡 À propos de moi
-- 🎯 Je construis des projets **web, mobile et backend**
-- 📱 Actuellement : je développe une **application Flutter** pour la gestion de serveurs
-- ⚙️ J’explore : **DevOps, Kubernetes et CI/CD**
-- 💬 Demande-moi : **Next.js, React, Flutter, Node.js, Discord Bots**
-- 📫 Contact : **kbayle5656@gmail.com**
-- 🌍 Portfolio : [elurym.fr](https://elurym.fr)
+
+Je suis **Elurym**, développeur fullstack passionné par la **création d’applications modernes, performantes et sécurisées**.  
+Autodidacte et curieux, j’aime explorer de nouvelles technologies et relever des défis techniques concrets.
+
+- 🚀 **Projets principaux** :  
+  - **Row-Hosting App** : une application Flutter complète pour gérer des serveurs Pterodactyl (console en temps réel, explorateur de fichiers, stats, biométrie, thèmes dynamiques)  
+  - **RowBot** : un bot Discord avec tickets, giveaways, notifications et intégrations personnalisées  
+  - **Site Row-Hosting** : un site Next.js optimisé SEO/i18n avec un design immersif et responsive  
+
+- 🔭 Actuellement :  
+  - Amélioration de mon app mobile
+  - Développement de nouvelles fonctionnalités pour **Row-Hosting.fr**
+
+- 🌱 J’apprends en ce moment :  
+  - **Kubernetes** pour le déploiement scalable  
+  - **CI/CD & automatisation** avec GitHub Actions et Docker  
+  - **Observabilité** (logs structurés, métriques, alerting)
+
+- 🎨 J’accorde une grande importance à :  
+  - L’**expérience utilisateur (UX)** et aux interfaces **modernes et accessibles**  
+  - La **sécurité** (authentification forte, gestion des clés, monitoring)  
+  - La **documentation claire** et le **support utilisateur**
+
+⚡ Mon objectif : créer des outils qui allient **performance, simplicité et fiabilité** pour aider les utilisateurs à gérer leurs projets facilement.
 
 ---
 
 ## 🔗 Réseaux & Contacts
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://elurym.dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XXXX)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://elurym.fr)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://links.row-hosting.fr/discord)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elurym)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elurym.dev@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbayle5656@gmail.com)
 
 ---
 
